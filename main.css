@@ -49,3 +49,11 @@ body {
 .register-form input[type='submit']:hover {
   cursor: pointer;
 }
+
+.text {
+  color: white;
+  line-height: 1.4;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
